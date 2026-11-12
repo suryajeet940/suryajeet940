@@ -27,7 +27,7 @@
 ## 📫 Connect
 
 * [LinkedIn](https://linkedin.com/in/suryajeet940)
-* [Instagram](https://instagram.com/suryajeet.maurya)## Hi there 👋
+* [Instagram](https://www.instagram.com/suryajeet.maurya)## Hi there 👋
 
 <!--
 **suryajeet940/suryajeet940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
